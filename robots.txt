@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://gabrielvallecg.github.io/sitemap.xml
